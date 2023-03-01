@@ -1,0 +1,29 @@
+[33mcommit ab6790cfec3d2d2398cdb2290f49a16c48a180ed[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ted <120338902+teddyies@users.noreply.github.com>
+Date:   Wed Mar 1 13:42:26 2023 -0600
+
+    Finish chicken-alfredo recipe
+
+[33mcommit 8dba751ceab0fbadb86c87f89b9534279ac2ec22[m
+Author: Ted <120338902+teddyies@users.noreply.github.com>
+Date:   Wed Mar 1 13:26:35 2023 -0600
+
+    Finish pizza recipe
+
+[33mcommit ac5a85e7aa3fc1815f3a59a55bd49d31e130c07f[m
+Author: Ted <120338902+teddyies@users.noreply.github.com>
+Date:   Sat Feb 25 22:54:30 2023 -0600
+
+    Finish ramen recipe
+
+[33mcommit 32f5003c8c6b7ac0cc9b9e198cf9bf50d04e36a4[m
+Author: Ted <120338902+teddyies@users.noreply.github.com>
+Date:   Sat Feb 25 22:14:04 2023 -0600
+
+    Add base files
+
+[33mcommit 4fbfe60e2d727b90db9047a7e1f203ecd74701e4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ted Xie <120338902+woozyduck@users.noreply.github.com>
+Date:   Sat Feb 25 16:07:53 2023 -0600
+
+    Initial commit
